@@ -79,3 +79,5 @@ $Connection->query("DROP TABLE IF EXISTS users");
 #Closing the Connection
 
 $Connection->close();
+
+?>
